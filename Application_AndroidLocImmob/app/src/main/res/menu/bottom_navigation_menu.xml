@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_accueil"
+        android:enabled="true"
+        android:icon="@drawable/icone_rechercher"
+        android:title="@string/bottom_bar_rechercher"/>
+    <item
+        android:id="@+id/page_favoris"
+        android:enabled="true"
+        android:icon="@drawable/icone_favori"
+        android:title="@string/bottom_bar_favoris"/>
+    <item
+        android:id="@+id/page_ajouter"
+        android:enabled="true"
+        android:icon="@drawable/icone_ajouter"
+        android:title="@string/bottom_bar_ajouter"/>
+    <item
+        android:id="@+id/page_annonces"
+        android:enabled="true"
+        android:icon="@drawable/icone_annonce"
+        android:title="@string/bottom_bar_annonces"/>
+    <item
+        android:id="@+id/page_messages"
+        android:enabled="true"
+        android:icon="@drawable/icone_message"
+        android:title="@string/bottom_bar_messages"/>
+</menu>

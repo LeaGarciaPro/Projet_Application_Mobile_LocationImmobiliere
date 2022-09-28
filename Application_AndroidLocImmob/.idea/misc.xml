@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.112" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/annonces_empty.xml" value="0.1" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/button_1.xml" value="0.112" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/favoris_empty.xml" value="0.1" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/focused.xml" value="0.1125" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/heart_empty.xml" value="0.1" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/heart_full.xml" value="0.1" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/house.xml" value="0.108" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/ic_house.xml" value="0.112" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/ic_launcher_background.xml" value="0.112" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/ic_message.xml" value="0.112" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/icone_ajouter.xml" value="0.112" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/icone_annonce.xml" value="0.112" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/icone_check.xml" value="0.1" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/icone_cloche.xml" value="0.108" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/icone_compte.xml" value="0.112" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/icone_envoyer.xml" value="0.133" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/icone_favori.xml" value="0.1" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/icone_favoris.xml" value="0.136" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/icone_message.xml" value="0.112" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/icone_message_recu.xml" value="0.1" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/icone_rechercher.xml" value="0.112" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/drawable/messages_empty.xml" value="0.1" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout-v31/activity_lancement.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_accueil.xml" value="0.4" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_ajouter_annonce.xml" value="0.264" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_ajouter_empty.xml" value="0.264" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_alerte.xml" value="0.15572916666666667" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_compte.xml" value="0.264" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_compte_pro.xml" value="0.264" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_connexion.xml" value="0.1" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_conversation.xml" value="0.264" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_favoris.xml" value="0.2" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_favoris_empty.xml" value="0.264" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_inscription.xml" value="0.264" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_inscription_pro.xml" value="0.264" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_inscription_pro_suite.xml" value="0.21052631578947367" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_lancement.xml" value="0.2" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_mes_annonces.xml" value="0.264" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_mes_annonces_empty.xml" value="0.264" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_message.xml" value="0.15572916666666667" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_messages.xml" value="0.4" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_messages_empty.xml" value="0.2" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_modif_abonn.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_modification_donnees.xml" value="0.19736842105263158" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_modifier_annonce.xml" value="0.2" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_recherche.xml" value="0.15572916666666667" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_statistique.xml" value="0.15572916666666667" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/activity_visualiser_annonce.xml" value="0.2" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/bottom_bar.xml" value="0.15572916666666667" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/fragment_accueil.xml" value="0.2" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/fragment_ajouter_annonce.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/fragment_bottom_bar.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/fragment_favoris.xml" value="0.152" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/fragment_mes_annonces.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/fragment_messages.xml" value="0.264" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/heart_full.xml" value="0.1" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/list_item_layout_accueil.xml" value="0.4" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/list_item_layout_annonces.xml" value="0.4" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/list_item_layout_favoris.xml" value="0.4" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/list_item_layout_mesannonces.xml" value="0.4" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/list_item_layout_mesannonces_pro.xml" value="0.264" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/list_item_layout_messagerie.xml" value="0.4" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/receive_message.xml" value="0.4" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/layout/send_message.xml" value="0.4" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/menu/top_app_bar.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/Application_AndroidLocImmob/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.108" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/app/src/main/res/drawable/bouton.xml" value="0.1755" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/app/src/main/res/drawable/bouton_bleu.xml" value="0.1755" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/app/src/main/res/drawable/boutton_bleu.xml" value="0.1755" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/app/src/main/res/drawable/button_1.xml" value="0.1755" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/app/src/main/res/drawable/button_test.xml" value="0.1755" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/app/src/main/res/drawable/image_accue.xml" value="0.136" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/app/src/main/res/drawable/image_accueil.xml" value="0.2265" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/app/src/main/res/drawable/input_email.xml" value="0.1755" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/app/src/main/res/drawable/oh.xml" value="0.1755" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/app/src/main/res/drawable/page1.xml" value="0.2265" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/app/src/main/res/drawable/rectangle.xml" value="0.1755" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/app/src/main/res/drawable/rectangle_1.xml" value="0.1755" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/app/src/main/res/drawable/rectangle_2.xml" value="0.1755" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/app/src/main/res/layout/activity_accueil.xml" value="0.2" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/app/src/main/res/layout/activity_connected.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/app/src/main/res/layout/activity_connexion.xml" value="0.264" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/app/src/main/res/layout/activity_inscription.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Garcia/Master1/DevProgMobile/projetLocationImm/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.183" />
+        <entry key="app/src/main/res/drawable/ic_house.xml" value="0.183" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2245" />
+        <entry key="app/src/main/res/drawable/ic_message.xml" value="0.2245" />
+        <entry key="app/src/main/res/drawable/ic_pieces.xml" value="0.2245" />
+        <entry key="app/src/main/res/drawable/icone_ajouter.xml" value="0.2245" />
+        <entry key="app/src/main/res/drawable/icone_annonce.xml" value="0.2245" />
+        <entry key="app/src/main/res/drawable/icone_chambre.xml" value="0.2245" />
+        <entry key="app/src/main/res/drawable/icone_favori.xml" value="0.2245" />
+        <entry key="app/src/main/res/drawable/icone_favoris.xml" value="0.183" />
+        <entry key="app/src/main/res/drawable/icone_lieu.xml" value="0.2" />
+        <entry key="app/src/main/res/drawable/icone_location.xml" value="0.1905" />
+        <entry key="app/src/main/res/drawable/icone_maison.xml" value="0.2245" />
+        <entry key="app/src/main/res/drawable/icone_message.xml" value="0.2245" />
+        <entry key="app/src/main/res/drawable/icone_prix.xml" value="0.2245" />
+        <entry key="app/src/main/res/drawable/icone_profil.xml" value="0.213" />
+        <entry key="app/src/main/res/drawable/icone_rechercher.xml" value="0.2245" />
+        <entry key="app/src/main/res/drawable/icone_stat.xml" value="0.1355" />
+        <entry key="app/src/main/res/drawable/icone_surface.xml" value="0.2245" />
+        <entry key="app/src/main/res/layout-v31/activity_lancement.xml" value="0.3651041666666667" />
+        <entry key="app/src/main/res/layout/activity_accueil.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_ajouter_annonce.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_ajouter_empty.xml" value="0.17889492753623187" />
+        <entry key="app/src/main/res/layout/activity_compte.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/activity_compte_pro.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/activity_connexion.xml" value="0.19652842646059793" />
+        <entry key="app/src/main/res/layout/activity_conversation.xml" value="0.6266091609346693" />
+        <entry key="app/src/main/res/layout/activity_favoris.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/activity_favoris_empty.xml" value="0.17889492753623187" />
+        <entry key="app/src/main/res/layout/activity_inscription.xml" value="0.25324401855468753" />
+        <entry key="app/src/main/res/layout/activity_inscription_pro.xml" value="0.22192028985507245" />
+        <entry key="app/src/main/res/layout/activity_inscription_pro_suite.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/activity_lancement.xml" value="0.30918731689453127" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_mes_annonces.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/activity_messages.xml" value="0.17889492753623187" />
+        <entry key="app/src/main/res/layout/activity_modifier_annonce.xml" value="0.13728470111448834" />
+        <entry key="app/src/main/res/layout/activity_recherche.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_resultat_recherche.xml" value="0.20064086914062504" />
+        <entry key="app/src/main/res/layout/activity_visualiser_annonce.xml" value="0.28065338134765627" />
+        <entry key="app/src/main/res/layout/activity_visualiser_favoris.xml" value="0.18206521739130435" />
+        <entry key="app/src/main/res/layout/bottom_bar.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/fragment_accueil.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/fragment_ajouter_annonce.xml" value="0.32736122695473746" />
+        <entry key="app/src/main/res/layout/fragment_favoris.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/list_item_layout_accueil.xml" value="0.17889492753623187" />
+        <entry key="app/src/main/res/layout/list_item_layout_annonces.xml" value="0.26140835527060685" />
+        <entry key="app/src/main/res/layout/list_item_layout_favoris.xml" value="0.17889492753623187" />
+        <entry key="app/src/main/res/layout/receive_message.xml" value="0.17889492753623187" />
+        <entry key="app/src/main/res/layout/send_message.xml" value="0.17889492753623187" />
+        <entry key="app/src/main/res/menu/bottom_navigation_menu.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/menu/top_app_bar.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/top_app_bar_simple.xml" value="0.28229166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

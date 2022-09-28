@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type_logement">
+        <item>Maison</item>
+        <item>Appartement</item>
+        <item>Studio</item>
+    </string-array>
+    <string-array name="villes">
+        <item>Montpellier</item>
+        <item>Toulouse</item>
+        <item>Lyon</item>
+        <item>Marseille</item>
+        <item>Paris</item>
+        <item>Perpignan</item>
+        <item>Lilles</item>
+    </string-array>
+</resources>

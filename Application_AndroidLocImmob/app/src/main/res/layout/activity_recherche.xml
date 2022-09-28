@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RechercheActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appBarLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/primary"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <com.google.android.material.appbar.MaterialToolbar
+            android:id="@+id/topAppBarFleche"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            app:menu="@menu/top_app_bar_simple"
+            app:navigationIcon="@drawable/icone_fleche"
+            app:navigationIconTint="@color/on_primary"
+            app:title="Recherche"
+            app:titleTextColor="@color/on_primary" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="409dp"
+        android:layout_height="597dp"
+        android:layout_marginTop="1dp"
+        app:layout_constraintBottom_toTopOf="@+id/bottom_nav_bar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/appBarLayout2"
+        app:layout_constraintVertical_bias="0.0">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <com.google.android.material.textfield.TextInputLayout
+
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_width="370dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1"
+                android:hint="Ville"
+                android:textColorHint="@color/on_background"
+                app:boxStrokeColor="@color/primary"
+                app:endIconMode="clear_text"
+                app:startIconDrawable="@drawable/icone_lieu">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/textFieldLieuRecherche"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/ville"
+                    android:textColor="@color/on_background" />
+
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_width="370dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:hint="Type Logement"
+                android:textColorHint="@color/on_background"
+                app:boxStrokeColor="@color/primary"
+                app:endIconMode="clear_text"
+                app:startIconDrawable="@drawable/icone_maison">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/textFieldTypeLogRecherche"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Type de logement"
+                    android:textColor="@color/on_background" />
+
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_width="370dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:hint="Type Location"
+                android:textColorHint="@color/on_background"
+                app:boxStrokeColor="@color/primary"
+                app:endIconMode="clear_text"
+                app:startIconDrawable="@drawable/icone_location">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/textFieldTypeLocRecherche"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Type de location"
+                    android:textColor="@color/on_background" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <com.google.android.material.textfield.TextInputLayout
+
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    android:layout_width="170dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="25dp"
+                    android:layout_weight="0"
+                    android:hint="Pièces min"
+                    android:inputType="number"
+                    android:textColorHint="@color/on_background"
+                    app:boxStrokeColor="@color/primary"
+                    app:endIconMode="clear_text"
+                    app:startIconDrawable="@drawable/icone_pieces">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/textFieldPiecesRecherche"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="number"
+                        android:text="Nombre"
+                        android:textColor="@color/on_background" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    android:layout_width="170dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="25dp"
+                    android:hint="Chambres min"
+                    android:textColorHint="@color/on_background"
+                    app:boxStrokeColor="@color/primary"
+                    app:endIconMode="clear_text"
+                    app:startIconDrawable="@drawable/icone_chambre">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/textFieldChambresRecherche"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="number"
+                        android:text="Nombre"
+                        android:textColor="@color/on_background" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <com.google.android.material.textfield.TextInputLayout
+
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    android:layout_width="170dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="25dp"
+                    android:layout_weight="0"
+                    android:hint="Surface min"
+                    android:textColorHint="@color/on_background"
+                    app:boxStrokeColor="@color/primary"
+                    app:endIconMode="clear_text"
+                    app:startIconDrawable="@drawable/icone_surface"
+                    app:suffixText="m²">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/textFieldSurfaceRecherche"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="number"
+                        android:text="..."
+                        android:textColor="@color/on_background" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+
+                <com.google.android.material.textfield.TextInputLayout
+
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    android:layout_width="170dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="25dp"
+                    android:gravity="bottom"
+                    android:hint="Prix max"
+                    android:textColorHint="@color/on_background"
+                    app:boxStrokeColor="@color/primary"
+                    app:endIconMode="clear_text"
+                    app:startIconDrawable="@drawable/icone_prix">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/textFieldPrixRecherche"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="number"
+                        android:text="Prix"
+                        android:textColor="@color/on_background" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+            </LinearLayout>
+
+
+            <Button
+                android:id="@+id/button_recherche_approfondi"
+                android:layout_width="264dp"
+                android:layout_height="48dp"
+                android:layout_marginStart="70dp"
+                android:layout_marginBottom="30dp"
+                android:layout_marginTop="30dp"
+                android:backgroundTint="@color/primary"
+                android:text="@string/rechercher"
+                app:layout_constraintStart_toStartOf="parent" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_nav_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="639dp"
+        app:backgroundTint="@color/primary"
+        app:itemIconTint="@color/on_primary"
+        app:itemRippleColor="@color/on_primary"
+        app:itemTextColor="@color/on_primary"
+        app:labelVisibilityMode="labeled"
+        app:layout_constraintTop_toTopOf="parent"
+        app:menu="@menu/bottom_navigation_menu"
+        tools:layout_editor_absoluteX="43dp" >
+
+    </com.google.android.material.bottomnavigation.BottomNavigationView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
